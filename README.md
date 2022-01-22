@@ -36,7 +36,7 @@ As shown below, **Denver has the largest number of votes**
 ## Election Audit Summary
 This script can be used to calculate the winner and voter turnout by county for any election. Some suggestion with the modification:
 
-1. The current dataset from the CSV file only has the county information. To analyize other election data, we could add state or city datasets for a broader or more detailed analysis.
+1. Currently the script is hard coded to certain columns. For example, the current code will only work when the county and candidate information is in the current rows. We could modify the script to get user input for which columns to analyze.
 
-2. It would be better to include the date, month and year of the election into the dataset in order to conduct the election analysis in a more comprehensive perspective.
+2. Currently the script is only limited to analyize county and candidate names. To be used for different types of election analysis, other variables such as states, cities, years and dates might needed be added on the script.
 
