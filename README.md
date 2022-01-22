@@ -38,5 +38,5 @@ This script can be used to calculate the winner and voter turnout by county for 
 
 1. The current script is hard coded to certain columns. For example, the current code will only work when the county and candidate information is in the current rows. We could modify the script to get user input for which columns to analyze.
 
-2. The current script is limited to analyize county and candidate names. To be used for different types of election analysis, other variables such as states, cities, years and dates need be added on the script along with other future datasets.
+2. The current script is limited to analyize county and candidate names. To be used for different types of election analysis, other variables such as states, cities, years and dates need be added on the script along with corresponded future datasets.
 
