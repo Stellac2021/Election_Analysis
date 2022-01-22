@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 The Colorado Board of Elections has requested some data to complete the election audit
 ### Purpose
-The goal is to use Python and retrieve data from the provided CSV file *election_results.csv* to deliver the below information requested from the election commission:
+The goal is to use Python and retrieve data from the provided data source *election_results.csv* to deliver the below information requested from the election commission:
 
   - The voter turnout for each county
   - The percentage of votes from each county out of the total count
