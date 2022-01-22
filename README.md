@@ -11,7 +11,7 @@ The goal is to use Python and retrieve data from the provided CSV file *election
 
 ## Election Audit Result
 Below are the election outcomes
-- **Total votes** There were **369,711** votes cast in the election.
+- **Total votes** : There were **369,711** votes cast in the election.
     
 ### County Results
 
