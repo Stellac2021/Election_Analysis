@@ -17,16 +17,16 @@ Below are the election outcomes
 
 As shown below, **Denver has the largest number of votes** 
 
-   - Jefferson: 10.5% (38,855)
-   - Denver: 82.8% (306,055)
-   - Arapahoe: 6.7% (24,801)
+   - Jefferson: 10.5% (38,855 votes)
+   - Denver: 82.8% (306,055 votes)
+   - Arapahoe: 6.7% (24,801 votes)
     
 ### Candidate Results
 
 **The winner** of the election was **Diana DeGette** who received **73.8%** of the votes and **272,892** votes
-  - Charles Casper Stockham: 23.0% (85,213)
-  - Diana DeGette: 73.8% (272,892)
-  - Raymon Anthony Doane: 3.1% (11,606)
+  - Charles Casper Stockham: 23.0% (85,213 votes)
+  - Diana DeGette: 73.8% (272,892 votes)
+  - Raymon Anthony Doane: 3.1% (11,606 votes)
 
 :star2: **The output of the election outcomes has been calcualted with python script as below**
 
