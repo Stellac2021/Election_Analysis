@@ -28,14 +28,14 @@ As shown below, **Denver has the largest number of votes**
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
 
-:star2: **The output of the election outcomes has been calcualted with python script based on the provided data**
+:star2: **The output of the election outcomes has been calcualted with python script as below**
 
 ![](Resources/election_results.png)
 
 
 ## Election Audit Summary
-This script can be used to calculate the winner and voter turnout by county for any election. However, it might require a few modifications:
+This script can be used to calculate the winner and voter turnout by county for any election. Some suggestion with the modification:
 
-1. Instead of counting votes by county, the election commission may be interested in looking at votes by state or city. In this case, the word county will need to be changed in the print statements.
+1. The current dataset from the CSV file only has the county information. To analyize other election data, we could add state or city dataset for a broader or more detailed analysis.
 
-2. The code is also relying on the candidate's name and county to be in specific columns in the csv file. If these values are in different columns in future datasets, the references in the code will need to be updated.
+2. The current python script is relying on the candidate's name and county to be in specific columns in the csv file. If these values are in different columns in future datasets, the references in the code will need to be updated.
