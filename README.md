@@ -11,7 +11,6 @@ The goal is to use Python and retrieve data from the provided CSV file *election
 
 ## Election Audit Result
 Below are the election outcomes
-```
 - How many votes were cast in this congressional election?
     - Total Votes: 369,711
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -29,11 +28,13 @@ Below are the election outcomes
   - Winner: Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
-```
+
 **Using for loop to determine winning candidate, winning percentage and candiate
+
 ![](Resources/candidate_count_python_codebreakdown.png)
 
 **Using for loop to determine winning county, and the vote count
+
 ![](Resources/county_count_python_codebreakdown.png)
 
 
