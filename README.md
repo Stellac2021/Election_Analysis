@@ -22,7 +22,7 @@ As shown below, **Denver has the largest number of votes**
     
 ### Candidate Results
 
-The **winner** of the election was **Diana DeGette** who received **73.8%** of the votes and **272,892** votes
+**The winner** of the election was **Diana DeGette** who received **73.8%** of the votes and **272,892** votes
   - Charles Casper Stockham: 23.0% (85,213)
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
