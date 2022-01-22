@@ -29,11 +29,11 @@ Below are the election outcomes
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
 
-**Using for loop to determine winning candidate, winning percentage and candiate
+**Using for loop to determine winning candidate, winning percentage and candiate**
 
 ![](Resources/candidate_count_python_codebreakdown.png)
 
-**Using for loop to determine winning county, and the vote count
+**Using for loop to determine winning county, and the vote count**
 
 ![](Resources/county_count_python_codebreakdown.png)
 
