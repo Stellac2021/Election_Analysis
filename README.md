@@ -11,31 +11,25 @@ The goal is to use Python and retrieve data from the provided CSV file *election
 
 ## Election Audit Result
 Below are the election outcomes
-- How many votes were cast in this congressional election?
-    - Total Votes: 369,711
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  - County Votes:
+- There were **369,711** votes cast in the election.
+    
+- **County Results**
+As shown below, **Denver has the largest number of votes** 
+  
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
-- Which county had the largest number of votes?
-  - Denver
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+    - 
+- **Candidate Results**
+The **winner** of the election was **Diana DeGette** who received **73.8%** of the votes and **272,892** votes
+
   - Charles Casper Stockham: 23.0% (85,213)
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-  - Winner: Diana DeGette
-  - Winning Vote Count: 272,892
-  - Winning Percentage: 73.8%
 
-**Using for loop to determine winning candidate, winning percentage and candiate**
+**The output of the election outcomes has been calcualted with python script based on the provided data**
 
-![](Resources/candidate_count_python_codebreakdown.png)
-
-**Using for loop to determine winning county, and the vote count**
-
-![](Resources/county_count_python_codebreakdown.png)
+![](Resources/election_results.png)
 
 
 ## Election Audit Summary
