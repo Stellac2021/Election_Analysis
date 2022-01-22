@@ -10,7 +10,7 @@ The goal is to use Python and retrieve data from the provided CSV file *election
   - The county with the highest turnout
 
 ## Election Audit Result
-Below are the election outcomes
+Below are the election outcomes :triangular_flag_on_post::triangular_flag_on_post::triangular_flag_on_post:
 - **Total votes** : There were **369,711** votes cast in the election.
     
 ### County Results
