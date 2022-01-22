@@ -28,7 +28,7 @@ As shown below, **Denver has the largest number of votes**
   - Diana DeGette: 73.8% (272,892 votes)
   - Raymon Anthony Doane: 3.1% (11,606 votes)
 
-:star2: **The election outcomes has been calculated with an output in Python as below**
+:star2: **The election outcomes has been calculated with an output in Python with text file created as below**
 
 ![](Resources/election_results.png)
 
