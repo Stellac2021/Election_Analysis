@@ -13,16 +13,16 @@ The goal is to use Python and retrieve data from the provided CSV file *election
 Below are the election outcomes
 - There were **369,711** votes cast in the election.
     
-- **County Results**
+#### County Results
+
 As shown below, **Denver has the largest number of votes** 
-  
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
-    - 
-- **Candidate Results**
-The **winner** of the election was **Diana DeGette** who received **73.8%** of the votes and **272,892** votes
+    
+#### Candidate Results
 
+The **winner** of the election was **Diana DeGette** who received **73.8%** of the votes and **272,892** votes
   - Charles Casper Stockham: 23.0% (85,213)
   - Diana DeGette: 73.8% (272,892)
   - Raymon Anthony Doane: 3.1% (11,606)
